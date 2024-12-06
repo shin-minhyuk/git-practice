@@ -21,7 +21,6 @@ h1 {
 }
 
 button {
-  border: 1px solid transparent;
   font-weight: 500;
   font-family: inherit;
   cursor: pointer;
